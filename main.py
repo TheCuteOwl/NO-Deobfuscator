@@ -51,9 +51,9 @@ def unescape(s):
 
     return s
 
-print('test1')
+
 deobfuscated = unescape(obfuscated_string)
-print('test2')
+
 deobfuscated = base64.b64decode(deobfuscated)
 deobfuscated = deobfuscated.decode("utf-8")
 print(deobfuscated)
@@ -61,7 +61,8 @@ with open(outfile, 'w+') as f:
     print('test3')
 
     f.write(deobfuscated)
-    print('yes')
+    print('Deobfuscated version in deobfuscated.txt)
+    input('Successfully Deobfuscated Press Enter to Quit')
 
 
 
