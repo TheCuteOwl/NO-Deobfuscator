@@ -15,7 +15,9 @@
 <br><br>
 
 * How to use it :
-  * Open obfuscated.txt and replace everything with the obfuscated script you want to deobfuscate
+  * Open obfuscated.txt and replace everything with the obfuscated script you want to deobfuscate 
+  
+  | DONT PUT THE LINE WITH EXEC ITS USELESS | (The last line)
 
  * Now launch main.py 
  
