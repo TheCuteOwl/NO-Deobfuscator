@@ -49,3 +49,5 @@
 
 * Want to support me ? Leave a star ⭐ 
 * You want to contribute or you find a issues feel free to check <br/>[issues page](https://github.com/TheCuteOwl/NO-Deobfuscator/issues)
+
+* Have Fun 
