@@ -4,7 +4,7 @@
 
 
 ---
-* A simple deobfuscator for https://github.com/hashkiller/hashkiller-obfuscator
+* A simple deobfuscator for https://github.com/wodxgod/Simple-Obfuscator
 
 * With this you will be able to :
   * Deobfuscate and get the hidden code easily
@@ -23,7 +23,7 @@
  
  * It will deobfuscate it and write the deobfuscate code in deobfuscated.txt
  
- * Like the obfuscated stuff in my program will give you a simple script
+ * Like the obfuscated stuff in my program will give you a simple print('hello world')
  
 <br><br>
   
